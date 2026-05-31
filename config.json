@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendelete",
+        "uuid": 1758006,
+        "checksum": "ofe8qs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
